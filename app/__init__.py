@@ -1,0 +1,1 @@
+# Paket utama aplikasi StrukKu

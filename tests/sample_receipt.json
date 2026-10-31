@@ -1,0 +1,46 @@
+{
+  "transaction": {
+    "store_name": "Indomaret Merdeka",
+    "store_address": "Jl. Merdeka No. 10, Bandung",
+    "transaction_date": "2024-03-15",
+    "transaction_time": "14:32",
+    "receipt_number": "INV-20240315-001",
+    "subtotal": 35000,
+    "discount": 2000,
+    "tax": 0,
+    "total": 33000,
+    "payment_method": "QRIS"
+  },
+  "items": [
+    {
+      "item_name": "Indomie Goreng",
+      "quantity": 3,
+      "unit_price": 3500,
+      "line_total": 10500,
+      "category": "makanan"
+    },
+    {
+      "item_name": "Aqua 600ml",
+      "quantity": 2,
+      "unit_price": 4000,
+      "line_total": 8000,
+      "category": "minuman"
+    },
+    {
+      "item_name": "Sabun Lifebuoy",
+      "quantity": 1,
+      "unit_price": 7500,
+      "line_total": 7500,
+      "category": "perawatan_diri"
+    },
+    {
+      "item_name": "Tisu Paseo",
+      "quantity": 1,
+      "unit_price": 9000,
+      "line_total": 9000,
+      "category": "kebutuhan_rumah"
+    }
+  ],
+  "validation_status": "ok",
+  "needs_review_fields": []
+}
