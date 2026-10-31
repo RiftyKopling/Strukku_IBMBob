@@ -84,7 +84,7 @@ pytest tests/ -v
 | Variabel | Keterangan | Contoh |
 |----------|------------|--------|
 | `GEMINI_API_KEY` | API key Google Gemini | `AIza...` |
-| `GEMINI_MODEL` | Nama model yang digunakan | `gemini-3.8-flash` |
+| `GEMINI_MODEL` | Nama model yang digunakan | `gemini-3.5-flash-lite` |
 
 ---
 
